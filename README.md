@@ -1,5 +1,7 @@
 Manuel Paez
+
 Computer Science student at Columbia University
+
 Interested in Cognitive Science and Computational Neuroscience
 
 <!---
