@@ -2,7 +2,7 @@ Manuel Paez
 
 Computer Science student at Columbia University
 
-Interested in Cognitive Science and Computational Neuroscience
+Interested in Quantum Information Sciences (Quantum-AI + Quantum cryptography), neuro-inspired AI, Computational Neuroscience
 
 <!---
 mannypaeza/mannypaeza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
